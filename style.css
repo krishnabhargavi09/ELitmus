@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 body{
-  background-color: #eee;
+  background-color: #C0C0C0;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -20,7 +20,7 @@ body{
 .container{
   position: relative;
   width: 400px;
-  background: white;
+  background: aqua;
   padding: 60px 40px;
 }
 header{
